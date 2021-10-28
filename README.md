@@ -1,24 +1,11 @@
-# todolist
+# ToDo List
 
-## Project setup
-```
-npm install
-```
+ToDo List desenvolvido em Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Sobre o projeto
 
-### Compiles and minifies for production
-```
-npm run build
-```
+Caso tenha algum Feedback sobre o código ou a estrutura que possa melhorar o projeto, você pode entrar em contato.
 
-### Lints and fixes files
-```
-npm run lint
-```
+## Tecnologias utilizadas
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+ - Vue.js
